@@ -1,3 +1,7 @@
 Makefile
 README.md
 README.txt
+bin/
+.settings/
+.classpath
+.project
