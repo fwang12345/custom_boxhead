@@ -1,6 +1,7 @@
 Makefile
-README.md
+ClassREADME.md
 README.txt
+
 bin/
 .settings/
 .classpath
