@@ -1,4 +1,4 @@
-# Project Title
+# Custom Boxhead
 
 Box Head is a 2-Dimensional zombie survival game. The goal is to survive as many rounds of zombies as possible.
 
